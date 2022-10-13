@@ -5,18 +5,18 @@
 
 
 ### 👋 Hello, I'm Sunny 👋
-I'm mobile app developer using iOS  now💻
+I'm mobile app developer using iOS 💻
 
 but I'm always welcome to other areas!
 
-I hope to devleop every meaningful things.✨
+I hope to devleop every meaningful things ✨
 
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fsunny5875%2F&count_bg=%23D7B6FF&title_bg=%239DCCF7&icon=awesomelists.svg&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
 
 
-### 📱 Connect Me! 📱
+### Connect Me
  <a href="https://www.instagram.com/be._.sunny/" target="_blank"><img src="https://img.shields.io/badge/Instagram-aaaaa?style=flat-square&logo=Instagram&logoColor=white"/></a>
   <a href="sunny5875@hanyang.ac.kr" target="_blank"><img src="https://img.shields.io/badge/Gmail-aaaaa?style=flat-square&logo=Gmail&logoColor=white"/></a>
  
@@ -72,5 +72,5 @@ I hope to devleop every meaningful things.✨
 
 
 
-![Footer](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=footer)
+![Footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=200&section=footer)
 </div>
