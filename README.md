@@ -27,7 +27,7 @@ I hope to devleop every meaningful things.✨
 <img src="https://img.shields.io/badge/iOS-000000?style=flat-square&logo=iOS&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Xcode-147EFB?style=flat-square&logo=Xcode&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Swift-F5CBA7?style=flat-square&logo=Swift&logoColor=white"/></a>
-<img src="https://img.shields.io/badge/ReactiveX-B7178C?style=flat-square&logo=RxSwift&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/ReactiveX-B7178C?style=flat-square&logo=ReactiveX&logoColor=white"/></a>
 
 <img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=Android&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Kotlin-abebc6?style=flat-square&logo=Kotlin&logoColor=white"/></a>
@@ -40,11 +40,14 @@ I hope to devleop every meaningful things.✨
 <img src="https://img.shields.io/badge/C++-ffcc33?style=flat-square&logo=C%2B%2B&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/C-fd9283?style=flat-square&logo=C&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Java-fadbd8?style=flat-square&logo=Java&logoColor=white"/></a>
-<img src="https://img.shields.io/badge/NodeJS-E6EE9C?style=flat-square&logo=Nodejs&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/Node.js-E6EE9C?style=flat-square&logo=Node.js&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=white"/></a>
+
 <img src="https://img.shields.io/badge/Mysql-F8BBD0?style=flat-square&logo=Mysql&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=white"/>
-<img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=white"/></a>
-<img src="https://img.shields.io/badge/GrapQL-311C87?style=flat-square&logo=GrapQL&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/Realm-39477F?style=flat-square&logo=Realm&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/GraphQL-311C87?style=flat-square&logo=GraphQL&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=Express&logoColor=white"/></a>
 
 
 
