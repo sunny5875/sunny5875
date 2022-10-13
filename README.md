@@ -1,10 +1,10 @@
 
 <div align="center">
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=300&section=header&fontAlign=64&text=Hello,%20Sunny%20World!&fontSize=56&fontColor=ffffff&animation=fadeIn)
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=300&section=header&fontAlign=50&text=Hello,%20Sunny's%20World!&fontSize=56&fontColor=ffffff&animation=fadeIn)
 
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Lobster&pause=1000&color=000000&center=true&vCenter=true&width=435&lines=Hi%2C+there.+I'm+sunny.+)](https://git.io/typing-svg)
 
-### 👋 Hello, I'm Sunny 👋
 I'm mobile app developer using iOS 💻
 
 but I'm always welcome to other areas!
@@ -12,8 +12,7 @@ but I'm always welcome to other areas!
 I hope to devleop every meaningful things ✨
 
 
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fsunny5875%2F&count_bg=%23D7B6FF&title_bg=%239DCCF7&icon=awesomelists.svg&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
-
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fsunny5875%2F&count_bg=%23BE6CE3&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
 
 ### Connect Me
@@ -36,7 +35,7 @@ I hope to devleop every meaningful things ✨
 
 
 ### Tech Stack
-<img src="https://img.shields.io/badge/Python-D4E6F1?style=flat-square&logo=Python&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/Python-D4E6F?style=flat-square&logo=Python&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/C++-ffcc33?style=flat-square&logo=C%2B%2B&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/C-fd9283?style=flat-square&logo=C&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Java-fadbd8?style=flat-square&logo=Java&logoColor=white"/></a>
@@ -66,11 +65,14 @@ I hope to devleop every meaningful things ✨
 <img src="https://img.shields.io/badge/Gather-9e9e9e?style=flat-square&logo=GatherTown&logoColor=white"/></a>
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sunny5875)](https://github.com/suny5875/github-readme-stats)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sunny5875&layout=compact)
 
 [![Sunny's GitHub stats](https://github-readme-stats.vercel.app/api?username=sunny5875)](https://github.com/sunny5875/github-readme-stats)
 
 
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sunny5875)
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=sunny5875&theme=flat&column=7)](https://github.com/sunny5875/)
 
 ![Footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=200&section=footer)
 </div>
