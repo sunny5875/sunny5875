@@ -55,13 +55,14 @@ I hope to devleop every meaningful things ✨
 <img src="https://img.shields.io/badge/GitHub-9e9e9e?style=flat-square&logo=GitHub&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Git-9e9e9e?style=flat-square&logo=Git&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/GitLab-9e9e9e?style=flat-square&logo=GitLab&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/Bitbucket-9e9e9e?style=flat-square&logo=Bitbucket&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/Postman-9e9e9e?style=flat-square&logo=Postman&logoColor=white"/></a>
+
+<img src="https://img.shields.io/badge/Jira-9e9e9e?style=flat-square&logo=Jira&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/Confluence-9e9e9e?style=flat-square&logo=Confluence&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Notion-9e9e9e?style=flat-square&logo=Notion&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Slack-9e9e9e?style=flat-square&logo=Slack&logoColor=white"/></a>
-<img src="https://img.shields.io/badge/Jira-9e9e9e?style=flat-square&logo=Jira&logoColor=white"/></a>
-<img src="https://img.shields.io/badge/Bitbucket-9e9e9e?style=flat-square&logo=Bitbucket&logoColor=white"/></a>
-<img src="https://img.shields.io/badge/Confluence-9e9e9e?style=flat-square&logo=Confluence&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Figma-9e9e9e?style=flat-square&logo=Figma&logoColor=white"/></a>
-<img src="https://img.shields.io/badge/Postman-9e9e9e?style=flat-square&logo=Postman&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Gather-9e9e9e?style=flat-square&logo=GatherTown&logoColor=white"/></a>
 
 
