@@ -16,54 +16,54 @@ I hope to devleop every meaningful things ✨
 
 
 ### Connect Me
- <a href="https://www.instagram.com/be._.sunny/" target="_blank"><img src="https://img.shields.io/badge/Instagram-aaaaa?style=flat-square&logo=Instagram&logoColor=white"/></a>
-  <a href="sunny5875@hanyang.ac.kr" target="_blank"><img src="https://img.shields.io/badge/Gmail-aaaaa?style=flat-square&logo=Gmail&logoColor=white"/></a>
+ <a href="https://www.instagram.com/be._.sunny/" target="_blank"><img src="https://img.shields.io/badge/Instagram-000000?style=flat-square&logo=Instagram&logoColor=white"/></a>
+  <a href="sunny5875@hanyang.ac.kr" target="_blank"><img src="https://img.shields.io/badge/Gmail-000000?style=flat-square&logo=Gmail&logoColor=white"/></a>
  
  
  
 ### Front-end Stack
 
 <img src="https://img.shields.io/badge/iOS-000000?style=flat-square&logo=iOS&logoColor=white"/></a>
-<img src="https://img.shields.io/badge/Xcode-147EFB?style=flat-square&logo=Xcode&logoColor=white"/></a>
-<img src="https://img.shields.io/badge/Swift-F5CBA7?style=flat-square&logo=Swift&logoColor=white"/></a>
-<img src="https://img.shields.io/badge/ReactiveX-B7178C?style=flat-square&logo=ReactiveX&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/Xcode-000000?style=flat-square&logo=Xcode&logoColor=blue"/></a>
+<img src="https://img.shields.io/badge/Swift-000000?style=flat-square&logo=Swift&logoColor=red"/></a>
+<img src="https://img.shields.io/badge/ReactiveX-000000?style=flat-square&logo=ReactiveX&logoColor=purple"/></a>
 
-<img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=Android&logoColor=white"/></a>
-<img src="https://img.shields.io/badge/Kotlin-abebc6?style=flat-square&logo=Kotlin&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/Android-000000?style=flat-square&logo=Android&logoColor=green"/></a>
+<img src="https://img.shields.io/badge/Kotlin-000000?style=flat-square&logo=Kotlin&logoColor=purple"/></a>
 
 
 
 
 ### Tech Stack
-<img src="https://img.shields.io/badge/Python-D4E6F?style=flat-square&logo=Python&logoColor=white"/></a>
-<img src="https://img.shields.io/badge/C++-ffcc33?style=flat-square&logo=C%2B%2B&logoColor=white"/></a>
-<img src="https://img.shields.io/badge/C-fd9283?style=flat-square&logo=C&logoColor=white"/></a>
-<img src="https://img.shields.io/badge/Java-fadbd8?style=flat-square&logo=Java&logoColor=white"/></a>
-<img src="https://img.shields.io/badge/Node.js-E6EE9C?style=flat-square&logo=Node.js&logoColor=white"/></a>
-<img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/Python-000000?style=flat-square&logo=Python&logoColor=blue"/></a>
+<img src="https://img.shields.io/badge/C++-000000?style=flat-square&logo=C%2B%2B&logoColor=yellow"/></a>
+<img src="https://img.shields.io/badge/C-000000?style=flat-square&logo=C&logoColor=yellow"/></a>
+<img src="https://img.shields.io/badge/Java-000000?style=flat-square&logo=Java&logoColor=orange"/></a>
+<img src="https://img.shields.io/badge/Node.js-000000?style=flat-square&logo=Node.js&logoColor=green"/></a>
+<img src="https://img.shields.io/badge/React-000000?style=flat-square&logo=React&logoColor=white"/></a>
 
-<img src="https://img.shields.io/badge/Mysql-F8BBD0?style=flat-square&logo=Mysql&logoColor=white"/></a>
-<img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=white"/>
-<img src="https://img.shields.io/badge/Realm-39477F?style=flat-square&logo=Realm&logoColor=white"/></a>
-<img src="https://img.shields.io/badge/GraphQL-311C87?style=flat-square&logo=GraphQL&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/Mysql-000000?style=flat-square&logo=Mysql&logoColor=blue"/></a>
+<img src="https://img.shields.io/badge/Firebase-000000?style=flat-square&logo=firebase&logoColor=red"/>
+<img src="https://img.shields.io/badge/Realm-000000?style=flat-square&logo=Realm&logoColor=purple"/></a>
+<img src="https://img.shields.io/badge/GraphQL-000000?style=flat-square&logo=GraphQL&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=Express&logoColor=white"/></a>
 
 
 
 
 ### Cowork Tool
-<img src="https://img.shields.io/badge/GitHub-9e9e9e?style=flat-square&logo=GitHub&logoColor=white"/></a>
-<img src="https://img.shields.io/badge/Git-9e9e9e?style=flat-square&logo=Git&logoColor=white"/></a>
-<img src="https://img.shields.io/badge/GitLab-9e9e9e?style=flat-square&logo=GitLab&logoColor=white"/></a>
-<img src="https://img.shields.io/badge/Bitbucket-9e9e9e?style=flat-square&logo=Bitbucket&logoColor=white"/></a>
-<img src="https://img.shields.io/badge/Postman-9e9e9e?style=flat-square&logo=Postman&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/GitHub-000000?style=flat-square&logo=GitHub&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/Git-000000?style=flat-square&logo=Git&logoColor=orange"/></a>
+<img src="https://img.shields.io/badge/GitLab-000000?style=flat-square&logo=GitLab&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/Bitbucket-000000?style=flat-square&logo=Bitbucket&logoColor=blue"/></a>
+<img src="https://img.shields.io/badge/Postman-000000?style=flat-square&logo=Postman&logoColor=orange"/></a>
 
-<img src="https://img.shields.io/badge/Jira-9e9e9e?style=flat-square&logo=Jira&logoColor=white"/></a>
-<img src="https://img.shields.io/badge/Confluence-9e9e9e?style=flat-square&logo=Confluence&logoColor=white"/></a>
-<img src="https://img.shields.io/badge/Notion-9e9e9e?style=flat-square&logo=Notion&logoColor=white"/></a>
-<img src="https://img.shields.io/badge/Slack-9e9e9e?style=flat-square&logo=Slack&logoColor=white"/></a>
-<img src="https://img.shields.io/badge/Figma-9e9e9e?style=flat-square&logo=Figma&logoColor=white"/></a>
-<img src="https://img.shields.io/badge/Gather-9e9e9e?style=flat-square&logo=GatherTown&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/Jira-000000?style=flat-square&logo=Jira&logoColor=blue"/></a>
+<img src="https://img.shields.io/badge/Confluence-000000?style=flat-square&logo=Confluence&logoColor=blue"/></a>
+<img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/Slack-000000?style=flat-square&logo=Slack&logoColor=yellow"/></a>
+<img src="https://img.shields.io/badge/Figma-000000?style=flat-square&logo=Figma&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/Gather-000000?style=flat-square&logo=GatherTown&logoColor=white"/></a>
 
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sunny5875&layout=compact)
