@@ -41,6 +41,7 @@ I hope to devleop every meaningful things ✨
 <img src="https://img.shields.io/badge/Java-000000?style=flat-square&logo=Java&logoColor=orange"/></a>
 <img src="https://img.shields.io/badge/Node.js-000000?style=flat-square&logo=Node.js&logoColor=green"/></a>
 <img src="https://img.shields.io/badge/React-000000?style=flat-square&logo=React&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/SML-000000?style=flat-square&logo=SML&logoColor=white"/></a>
 
 <img src="https://img.shields.io/badge/Mysql-000000?style=flat-square&logo=Mysql&logoColor=blue"/></a>
 <img src="https://img.shields.io/badge/Firebase-000000?style=flat-square&logo=firebase&logoColor=red"/>
@@ -64,6 +65,8 @@ I hope to devleop every meaningful things ✨
 <img src="https://img.shields.io/badge/Slack-000000?style=flat-square&logo=Slack&logoColor=yellow"/></a>
 <img src="https://img.shields.io/badge/Figma-000000?style=flat-square&logo=Figma&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Gather-000000?style=flat-square&logo=GatherTown&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/Discord-000000?style=flat-square&logo=Discord&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/Kakaowork-000000?style=flat-square&logo=Kakaowork&logoColor=white"/></a>
 
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sunny5875&layout=compact)
