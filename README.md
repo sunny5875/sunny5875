@@ -33,7 +33,6 @@ I hope to devleop every meaningful things ✨
 
 
 
-
 ### Tech Stack
 <img src="https://img.shields.io/badge/Python-000000?style=flat-square&logo=Python&logoColor=blue"/></a>
 <img src="https://img.shields.io/badge/C++-000000?style=flat-square&logo=C%2B%2B&logoColor=yellow"/></a>
