@@ -7,7 +7,7 @@
 
 I'm iOS developer 💻
 
-but I'm always welcome to other areas!
+I'm always welcome to other areas!
 
 I hope to devleop every meaningful things ✨
 
