@@ -20,7 +20,6 @@ I hope to devleop every meaningful things ✨
   <a href="sunny5875@hanyang.ac.kr" target="_blank"><img src="https://img.shields.io/badge/Gmail-000000?style=flat-square&logo=Gmail&logoColor=white"/></a>
  
  
- 
 ### Front-end Stack
 
 <img src="https://img.shields.io/badge/iOS-000000?style=flat-square&logo=iOS&logoColor=white"/></a>
