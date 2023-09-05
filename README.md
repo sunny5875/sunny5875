@@ -8,9 +8,9 @@
 
 I'm iOS developer 💻   
 
-I'm always welcome to other areas!  
+But I'm interested in anything related to computers!
   
-I hope to devleop every meaningful things ✨
+I hope to devleop every meaningful things ✨ 
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fsunny5875%2F&count_bg=%23BE6CE3&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
   
