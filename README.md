@@ -6,7 +6,7 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Lobster&pause=1000&color=000000&center=true&vCenter=true&width=435&lines=Hi%2C+there.+I'm+sunny.+)](https://git.io/typing-svg)
 
 
-I'm iOS developer 💻   
+I'm iOS developer 💻    
 
 But I'm interested in anything related to computers!
   
