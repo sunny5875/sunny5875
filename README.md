@@ -4,7 +4,7 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=300&section=header&fontAlign=50&fontSize=56&fontColor=ffffff&animation=fadeIn)
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Lobster&pause=1000&color=000000&center=true&vCenter=true&width=435&lines=Hi%2C+there.+I'm+sunny.+)](https://git.io/typing-svg)
-
+  
 
 I'm iOS developer 💻    
 
