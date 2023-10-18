@@ -72,9 +72,7 @@ I hope to devleop every meaningful things ✨
 
 
 
-[![Sunny's GitHub stats](https://github-readme-stats.vercel.app/api?username=sunny5875)](https://github.com/sunny5875/github-readme-stats)
-
-
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=sunny5875&theme=default)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sunny5875)
 
 
