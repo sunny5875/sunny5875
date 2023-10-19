@@ -73,7 +73,6 @@ I hope to devleop every meaningful things ✨
 
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=sunny5875&theme=default)
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sunny5875)
 
 
 ![Footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=200&section=footer)
