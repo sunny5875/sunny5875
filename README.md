@@ -8,7 +8,7 @@
 
 I'm a iOS developer 💻
 
-But I'm interested in anything related to computers!
+I'm interested in anything related to computers!
   
 I hope to devleop every meaningful things ✨ 
 
