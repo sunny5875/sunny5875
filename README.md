@@ -73,8 +73,6 @@ I hope to devleop every meaningful things ✨
 ![](./profile-3d-contrib/profile-south-season-animate.svg)
 
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=sunny5875&theme=default)
-
 
 ![Footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=200&section=footer)
 </div>
