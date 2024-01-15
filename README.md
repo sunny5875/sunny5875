@@ -70,7 +70,7 @@ I hope to devleop every meaningful things ✨
 <img src="https://img.shields.io/badge/Kakaowork-000000?style=flat-square&logo=Kakaowork&logoColor=white"/></a>
 
 
-![](./profile-3d-contrib/profile-south-season.svg)
+![](./profile-3d-contrib/profile-south-season-animate.svg)
 
 
 
